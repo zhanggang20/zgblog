@@ -1,7 +1,8 @@
 module.exports = {
   "title": "海边看日落",
-  "description": "",
-  "dest": "public",
+  "base":"/blog",
+  "description": "一个记录我日常学习与分享的个人博客",
+  "dest": "public/blog",
   "head": [
     [
       "link",
